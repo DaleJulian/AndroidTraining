@@ -1,0 +1,7 @@
+INDEX VERSION 1.127+/home/johndalealfredjulian/Desktop/FirstAndroidProject/.metadata/.plugins/org.eclipse.jdt.core
+1535168188.index
+2877495520.index
+2141792984.index
+2216258646.index
+1270315800.index
+1035937004.index

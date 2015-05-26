@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Bading si Deydey</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
