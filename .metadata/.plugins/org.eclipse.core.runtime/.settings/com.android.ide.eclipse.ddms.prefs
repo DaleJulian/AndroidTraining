@@ -1,4 +1,5 @@
 com.android.ide.eclipse.ddms.timeOut=10000
+ddms.logcat.automonitor.userprompt=true
 eclipse.preferences.version=1
 logcat.view.colsize.Application=167
 logcat.view.colsize.Level=20
